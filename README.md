@@ -1,6 +1,6 @@
 <!-- Banner opcional: Puedes poner aquí una imagen de header si tienes una -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Felipe%20Ramos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=62&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Felipe%20Ramos&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=62&fontColor=fff" />
 </div>
 
 <div align="center">
