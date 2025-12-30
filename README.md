@@ -87,5 +87,8 @@ Mi pasión está en el **backend robusto**, la **arquitectura limpia** y la **ci
 </picture>
 </div>
 
+---
 
-
+<div align="center">
+  <img src="./output/joke-es.svg" alt="Chiste Diario en Español" />
+</div>

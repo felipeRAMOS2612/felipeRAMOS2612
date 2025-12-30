@@ -1,0 +1,31 @@
+name: Actualizar Chiste Diario
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Se ejecuta todos los días a las 8:00 AM UTC
+  workflow_dispatch: # Permite ejecutarlo manualmente botón "Run"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # IMPORTANTE: Permiso para guardar el archivo
+
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generar imagen del chiste
+        run: python .github/scripts/generate_joke.py
+
+      - name: Commit y Push del cambio
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🤖 Nuevo chiste diario generado"
+          file_pattern: "output/joke-es.svg"
