@@ -1,6 +1,6 @@
 <!-- Banner opcional: Puedes poner aquí una imagen de header si tienes una -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Felipe%20Ramos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Felipe%20Ramos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Security%20Enthusiast&descAlignY=55&descAlign=62&fontColor=fff" />
 </div>
 
 <div align="center">
@@ -12,9 +12,8 @@
   
   <br />
 
-  🌱 **Actualmente explorando:** Offensive Security & Cloud Infrastructure  
-  🔭 **Trabajando en:** Arquitecturas Hexagonales y Sistemas Financieros  
-  🐧 **OS Principal:** Parrot OS / Linux
+  🌱 **Actualmente explorando:** Offensive Security & Cloud Infrastructure
+  🐧 **OS Principal:** Windows
   
 </div>
 
@@ -22,9 +21,9 @@
 
 ### 👨‍💻 Sobre mí
 
-¡Hola! Soy **Felipe Ramos**, un Ingeniero de Software y Tech Lead de **Llanquihue, Chile** 🇨🇱. 
+¡Hola! Soy **Felipe Ramos**, Desarrollador de software. 
 
-Mi pasión está en el **backend robusto** y la **arquitectura limpia**. No solo escribo código; diseño sistemas que son escalables, mantenibles y seguros. Me muevo fluidamente entre el desarrollo, la infraestructura (DevOps) y la seguridad (SecOps).
+Mi pasión está en el **backend robusto**, la **arquitectura limpia** y la **ciberseguridad**. No solo escribo código; diseño sistemas que son escalables, mantenibles y seguros. Me muevo fluidamente entre el desarrollo, la infraestructura (DevOps) y la seguridad (SecOps).
 
 - 🧠 **Filosofía:** Clean Architecture, SOLID, DDD & Design Patterns.
 - 🛡️ **Seguridad:** Investigación activa en vulnerabilidades (CVEs), Pentesting y Hardening.
@@ -71,4 +70,4 @@ Mi pasión está en el **backend robusto** y la **arquitectura limpia**. No solo
 <div align="center">
   <a href="https://github.com/feliperamos2612">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperamos2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme" />
