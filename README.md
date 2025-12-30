@@ -5,7 +5,9 @@
 
 <div align="center">
 
-  ### 🚀 Architecting Secure & Scalable Solutions
+  <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70a5fd&center=true&vCenter=true&width=435&lines=Software+Engineer;Clean+Architecture+Enthusiast;DevOps+%26+SecOps+Explorer;Laravel+%2B+NestJS+%2B+Go" alt="Typing SVG" />
+</h3>
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/feliperamos2612/)
   [![Mail Badge](https://img.shields.io/badge/-feliperamos2612@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:feliperamos2612@gmail.com)
