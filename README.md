@@ -63,18 +63,27 @@ Mi pasión está en el **backend robusto**, la **arquitectura limpia** y la **ci
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 Mis Métricas de Desarrollo</h3>
 <div align="center">
-  <a href="https://github.com/feliperamos2612">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=feliperamos2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_buster=1" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_buster=1" />
-  </a>
+<table style="border:none;border-collapse:collapse;margin:0 auto;">
+<tr style="border:none;">
+<td style="border:none;padding-right:15px;vertical-align:top;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=feliperamos2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&bg_color=1a1b27&cache_buster=1" height="195" alt="Stats Generales" />
+</td>
+<td style="border:none;padding-left:15px;vertical-align:top;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=70a5fd&text_color=c0caf5&bg_color=1a1b27&cache_buster=1" height="195" alt="Lenguajes Top" />
+</td>
+</tr>
+</table>
+<br />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=feliperamos2612&theme=tokyonight&hide_border=true&date_format=d%20M%5B%20Y%5D&background=1a1b27&ring=bf91f3&fire=70a5fd&currStreakLabel=70a5fd" alt="Racha de Código" style="border-radius:10px;" />
+<br /><br />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=feliperamos2612&theme=tokyonight&hide_border=true&date_format=d%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake.svg" />
-</div>
+
