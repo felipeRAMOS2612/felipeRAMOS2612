@@ -66,9 +66,8 @@ Mi pasión está en el **backend robusto**, la **arquitectura limpia** y la **ci
 ---
 
 ### 📊 GitHub Stats
-[<div align="center">
-  <a href="https://github.com/feliperamos2612">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperamos2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</div>](https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/feliperamos2612/feliperamos2612/output/github-contribution-grid-snake.svg" />
+</div>
