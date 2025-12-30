@@ -65,7 +65,14 @@ Mi pasión está en el **backend robusto**, la **arquitectura limpia** y la **ci
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=feliperamos2612&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/feliperamos2612">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=feliperamos2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_buster=1" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=feliperamos2612&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_buster=1" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=feliperamos2612&theme=tokyonight&hide_border=true&date_format=d%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
