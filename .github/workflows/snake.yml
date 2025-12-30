@@ -1,11 +1,9 @@
 name: Generate Snake
 
 on:
-  # Se ejecuta automáticamente cada 24 horas
   schedule:
     - cron: "0 0 * * *" 
   
-  # Permite ejecutarlo manualmente desde la pestaña "Actions" para probarlo
   workflow_dispatch:
 
 jobs:
@@ -19,9 +17,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Nombre de usuario de GitHub
           github_user_name: feliperamos2612
-          # Archivos de salida (versión clara y oscura)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -29,7 +25,6 @@ jobs:
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Nombre de la rama donde se guardarán las imágenes (no ensucia tu main branch)
           target_branch: output
           build_dir: dist
         env:

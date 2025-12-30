@@ -1,0 +1,16 @@
+
+    <svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .text { font-family: 'Segoe UI', Ubuntu, Sans-Serif; font-size: 16px; fill: #c0caf5; }
+        .border { stroke: #bf91f3; stroke-width: 2; fill: #1a1b27; rx: 10; }
+        .title { font-weight: bold; fill: #70a5fd; font-size: 14px; }
+      </style>
+      <rect x="1" y="1" width="498" height="118" class="border"/>
+      <text x="20" y="30" class="title">✨ Chiste del Día (Dev)</text>
+      <foreignObject x="20" y="45" width="460" height="60">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c0caf5; font-family: 'Segoe UI', sans-serif; font-size: 16px; display: flex; align-items: center; height: 100%;">
+          El hardware es lo que puedes patear, el software es lo que solo puedes maldecir.
+        </div>
+      </foreignObject>
+    </svg>
+    

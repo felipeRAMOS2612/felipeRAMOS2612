@@ -2,15 +2,15 @@ name: Actualizar Chiste Diario
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Se ejecuta todos los días a las 8:00 AM UTC
-  workflow_dispatch: # Permite ejecutarlo manualmente botón "Run"
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write # IMPORTANTE: Permiso para guardar el archivo
+      contents: write
 
     steps:
       - name: Checkout del código
