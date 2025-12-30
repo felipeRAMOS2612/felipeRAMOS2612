@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Generar imagen del chiste
-        run: python .github/scripts/generate_joke.py
+        run: python .github/scripts/random_joke.py
 
       - name: Commit y Push del cambio
         uses: stefanzweifel/git-auto-commit-action@v4
