@@ -9,7 +9,7 @@
       <text x="20" y="30" class="title">✨ Chiste del Día (Dev)</text>
       <foreignObject x="20" y="45" width="460" height="60">
         <div xmlns="http://www.w3.org/1999/xhtml" style="color:#c0caf5; font-family: 'Segoe UI', sans-serif; font-size: 16px; display: flex; align-items: center; height: 100%;">
-          Un SQL entra a un bar, se acerca a dos mesas y pregunta: ¿Puedo unirme (JOIN)?
+          Ayer funcionaba... - Frase célebre de todo desarrollador.
         </div>
       </foreignObject>
     </svg>
